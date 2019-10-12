@@ -1,0 +1,27 @@
+********************
+Mitch Mathieu
+10157108
+CISC 452
+Assignment 2
+********************
+
+Number of inputs: 784
+Number of hidden nodes: 5
+Number of output nodes: 10
+
+
+Results:
+Confusion Matrix:
+[[   0    0    0    0    0    0  980    0    0    0]
+ [   0    0    0    0    0    0 1135    0    0    0]
+ [   0    0    0    0    0    0 1032    0    0    0]
+ [   0    0    0    0    0    0 1010    0    0    0]
+ [   0    0    0    0    0    0  982    0    0    0]
+ [   0    0    0    0    0    0  892    0    0    0]
+ [   0    0    0    0    0    0  958    0    0    0]
+ [   0    0    0    0    0    0 1028    0    0    0]
+ [   0    0    0    0    0    0  974    0    0    0]
+ [   0    0    0    0    0    0 1009    0    0    0]]
+
+Precision: 0.0958
+Recall: 0.0958
